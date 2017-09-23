@@ -1,1 +1,0 @@
-# SetGuestInfo-and-GetGuestInfo-script
